@@ -1,0 +1,12 @@
+create table taches (
+   id_tach int(11) not null primary key AUTO_INCREMENT,
+   tach varchar(255),
+   checked tinyint(1)
+);
+
+
+6Yw%z^w(Hh!sH8o)
+u}\xRNK^I>$6Wr+O
+
+
+ATBB6DZUefb7gz9DpD45WeLungHN1A96D11C
